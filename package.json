@@ -1,0 +1,28 @@
+{
+  "name": "wortex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "core-js": "^3.8.1",
+    "core-js-bundle": "^3.8.1",
+    "inputmask": "^5.0.6-beta.24"
+  },
+  "browsersList": [
+    ">1%"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.10.2",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

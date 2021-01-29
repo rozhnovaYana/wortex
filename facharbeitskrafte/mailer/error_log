@@ -1,0 +1,1 @@
+[28-Jan-2021 08:04:07 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/agronnjg/wortexgroup.de/facharbeitskrafte/mailer/phpmailer/PHPMailerAutoload.php on line 45
