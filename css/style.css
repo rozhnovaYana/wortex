@@ -74,16 +74,12 @@
 .video-modal__close_active span:nth-child(1) {
 		transform: rotate(-45deg);
 	}
-.img-phone{
-	display: none
+
+.promo{
+	background-color:black
 }
-@media(max-width:576px){
-	.img-phone {
-		display: block
-	}
-	.video-pc{
-		display: none;
-	}
+.promo-video{
+	transition: 0.5s all;
 }
 
 
